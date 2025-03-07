@@ -1,0 +1,59 @@
+body{
+    background-image: url(Microsoft-Azure-logo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: center;
+    
+    }
+    
+    blockquote
+    {
+        color: grey;
+        font-family: geneva;
+    }
+a {
+    color: blue;
+}
+    center 
+
+    {
+        color: red;
+        font-size: larger;
+    }
+    cite{
+        color: white;
+    }
+    em
+    {
+        color: white;
+    }
+    
+    b{
+        color:yellow;
+    }
+    
+    h1{
+        border-style: solid;
+        color: white;
+    }
+    h2{
+        border-style: solid;
+        color: yellow;
+    }
+    
+    
+    table{
+        color: wheat;
+        background-color:black;
+    }
+    
+    h3,h4,h5{
+        border-style: solid;
+        color:yellow;
+    }
+    
+    hr{
+        height:10;
+    }
+    
